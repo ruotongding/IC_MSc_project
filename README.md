@@ -12,7 +12,7 @@ The KAN-ROM framework integrates a Kolmogorov-Arnold Network (KAN) with a Convol
 
 ### Datasets
 - **Shallow Water Model (SWM)**: Simulates large-scale atmospheric and oceanic fluid dynamics, which is available in code.
-- **Compressible Navier-Stokes (CNS)**: Models high-speed fluid flows where changes in fluid density are crucial. Which is available on:[Link Text](https://darus.uni-stuttgart.de/dataset.xhtml?persistentId=doi:10.18419/darus-2986)
+- **Compressible Navier-Stokes (CNS)**: Models high-speed fluid flows where changes in fluid density are crucial. Which is available on:[https://darus.uni-stuttgart.de/dataset.xhtml?persistentId=doi:10.18419/darus-2986](https://darus.uni-stuttgart.de/dataset.xhtml?persistentId=doi:10.18419/darus-2986)
 
 
 
